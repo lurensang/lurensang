@@ -1,4 +1,7 @@
-### Hi there 👋
+-  Hi, I’m @lurensang
+-  I’m interested in Minecraft and 
+- 🌱 I’m currently 
+
 
 <!--
 **lurensang/lurensang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
